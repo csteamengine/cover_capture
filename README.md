@@ -21,6 +21,13 @@ The user connects all the mics to the Pi, and puts them on the drums. This shoul
 
 The user then would select a song, either one that another user uploaded, or one that they upload. They would then record it and upload it. 
 
+# Packaged Result
+In the event that we sell this to other people instead of just for personal use, here is what I would hope to create:
+
+A Linux kernel that would automatically create a local database, website, and connect to the live database/website as well. The user would only have to flash the kernel to a Raspberry Pi, and plug it in. The user would then only need to plug the mics in and go to the website to start recording. 
+
+
+
 # Add Ons
 Video!
 
